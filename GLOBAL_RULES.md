@@ -1,10 +1,10 @@
-# Global Rules
+# Global Rules Reference
 
-This repository inherits the user's canonical Global Rules from:
+This repository is governed by the active canonical Global Rules stored at:
 
-`Jasoneagle/conversation-archive/00-Global-Rules/GLOBAL_RULES.md`
+`Jasoneagle/Global-Rules/GLOBAL_RULES.md`
 
-This local file is a pointer and application summary. The canonical rules remain in the private conversation archive.
+This local file is a pointer and application summary. Project-specific development rules remain in this repository.
 
 ## Required Application
 
